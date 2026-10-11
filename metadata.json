@@ -1,0 +1,6 @@
+{
+  "name": "AuraSpace - AI Interior Design Consultant",
+  "description": "Interactive room makeover app with AI-powered style transformations, before/after compare slider, context-aware styling chat, and shoppable decor recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
